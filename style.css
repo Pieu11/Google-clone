@@ -10,10 +10,10 @@
 html{
     font-size: 62.5%;
 }
-body{
+/* body{
     margin: 0;
     padding: 0;
-}
+} */
 /*------------------Barra de navegación*/
 .header{
     width: 100%;
@@ -24,8 +24,8 @@ body{
 .list-nav{
     display: flex;
     list-style: none;
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
     height: 4rem;
     align-items: center;
     justify-content: flex-end;
