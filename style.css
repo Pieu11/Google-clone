@@ -1,0 +1,83 @@
+:root{
+    --footer-color: #f2f2f2;
+    --font: Arial, sans-serif;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+/*------------------Barra de navegación*/
+header{
+    width: 100%;
+}
+nav{
+    
+}
+.list-nav{
+
+}
+.list-nav li{
+
+}
+.list-nav a{
+
+}
+.image-profile{
+
+}
+/*------------------Barra de navegación*/
+
+
+
+
+
+/*------------------Contenido principal*/
+.principal-logo{
+    
+}
+.principal-logo img{
+
+}
+
+.bar-search{
+    
+}
+.bar-search input{
+    
+}
+.bar-search .icons{
+
+}
+
+.buttons{
+
+}
+.buttons button{
+
+}
+.buttons a{
+
+}
+/*------------------Contenido principal*/
+
+
+
+/*------------------Footer*/
+footer{
+
+}
+footer div{
+
+}
+footer p{
+
+}
+footer a{
+
+}
+
+/*------------------Footer*/
