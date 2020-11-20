@@ -10,15 +10,25 @@
 html{
     font-size: 62.5%;
 }
+body{
+    margin: 0;
+    padding: 0;
+}
 /*------------------Barra de navegación*/
-header{
+.header{
     width: 100%;
 }
-nav{
+.nav{
     
 }
 .list-nav{
-
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 4rem;
+    align-items: center;
+    justify-content: flex-end;
 }
 .list-nav li{
 
@@ -67,16 +77,16 @@ nav{
 
 
 /*------------------Footer*/
-footer{
+.footer{
 
 }
-footer div{
+.footer div{
 
 }
-footer p{
+.footer p{
 
 }
-footer a{
+.footer a{
 
 }
 
